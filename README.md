@@ -1,2 +1,2 @@
 # spotify clone 
-only html andd css not js
+only html andd css not javaScript.
